@@ -1,5 +1,5 @@
 # Springboot-JPA-Blog
-
+중요한건 꺽이지 않는 마음
 /*
 		 * 1. github 가입
 		 * 2. git 설치
